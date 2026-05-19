@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: CreditProcessorService
+  jackson.deserialization.fail-on-unknown-properties: false
